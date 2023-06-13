@@ -7,4 +7,5 @@ to get the cell state it applies the rules to the state made up of all 3 sides
 
 many patterns result in chaos but some rules result in really interesting behavior
 
-https://github.com/ProfMonkey07/elementary-automata-in-2d/blob/main/Screen%20Shot%202023-06-12%20at%2023.43.33.png?raw=true
+
+![alt text]([http://url/to/img.png](https://github.com/ProfMonkey07/elementary-automata-in-2d/blob/main/Screen%20Shot%202023-06-12%20at%2023.43.33.png?raw=true))
